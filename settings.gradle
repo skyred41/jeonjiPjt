@@ -1,0 +1,3 @@
+rootProject.name = 'jeonjiPjt'
+
+include 'eatgo-api'
